@@ -80,6 +80,7 @@ Using concepts of Object-Oriented programming develop solution for any one appli
   1. List of all products 2. Display individual product information 3. Purchase 4. Shipping
   5. Balance stock6. Loss and Profit calculation.
 
+
 10. Factory Design Pattern -- CO6
 Implement Factory design pattern for the given context. Consider Car building process, which 
 requires many steps from allocating accessories to final makeup. These steps should be written as 
