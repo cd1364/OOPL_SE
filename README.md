@@ -73,10 +73,8 @@ students.
 
 9.Case Study -- CO2, CO5
 Using concepts of Object-Oriented programming develop solution for any one application
-  1) Banking system having following operations :
-      1. Create an account 2. Deposit money 3. Withdraw money 4. Honor daily withdrawal limit 5. Check the balance 6. Display Account information.
-  2) Inventory management system having following operations :
-      1. List of all products 2. Display individual product information 3. Purchase 4. Shipping  5. Balance stock6. Loss and Profit calculation.
+  1) Banking system having following operations : 1. Create an account 2. Deposit money 3. Withdraw money 4. Honor daily withdrawal limit 5. Check the balance 6. Display Account information.
+  2) Inventory management system having following operations : 1. List of all products 2. Display individual product information 3. Purchase 4. Shipping  5. Balance stock6. Loss and Profit calculation.
 
 
 10. Factory Design Pattern -- CO6
